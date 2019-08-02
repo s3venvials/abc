@@ -12,7 +12,7 @@ class App extends Component {
             <div>
                 <PreNav />
                 <Header />
-                <div className="container">
+                <div className="container-fluid">
                     <HomePage />
                 </div>
                 <Footer />
